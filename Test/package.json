@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.5.0",
+    "puppeteer": "^19.8.5",
+    "puppeteer-core": "^19.8.5"
+  }
+}
